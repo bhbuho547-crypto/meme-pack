@@ -1,10 +1,37 @@
 {
   "id": "chongyin-meme-pack",
   "name": "重音表情包",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "categories": {
-    "默认分类": {
-      "description": "通用表情"
+    "happy": {
+      "description": "用于开心、欢笑、庆祝、兴奋或轻松愉快的场景。"
+    },
+    "angry": {
+      "description": "用于生气、不满、抗议、警告、反驳或想要教训对方。"
+    },
+    "sad": {
+      "description": "用于难过、委屈、沮丧、哭泣、求安慰或无可奈何。"
+    },
+    "confused": {
+      "description": "用于疑问、不理解、需要解释或对情况感到迷惑。"
+    },
+    "surprised": {
+      "description": "用于震惊、意外、突然发现信息或被吓到的场景。"
+    },
+    "tired": {
+      "description": "用于疲惫、犯困、无语、冷淡、摆烂或精神不足。"
+    },
+    "affection": {
+      "description": "用于喜欢、亲昵、卖萌、贴贴、感谢或安慰。"
+    },
+    "teasing": {
+      "description": "用于吐槽、玩梗、坏笑、自夸、调侃或轻松搞怪。"
+    },
+    "approval": {
+      "description": "用于表示同意、确认、认可、支持或自信回应。"
+    },
+    "reply": {
+      "description": "用于普通回应、说明、倾听或没有明显强情绪的场景。"
     }
   }
 }
